@@ -11,4 +11,20 @@
 1.  Download report for users - Excel (Backend Activity Logs) - UI
 2.  Download report for users - Excel (Net Outstanding Logs)  - UI
 3. FFS Creation Issue (Backend) - onFFSCreation fix
- 
+--------------------------------------------------------------------------------------------------
+20-jan
+1. fix of FFS Creation Issue Prod fix show message fix on UI (Backend) - onFFSCreation fix
+2. Purg Started and making the logic 
+
+--------------------------------------------------------------------------------------------------
+21 -Jan
+1. Created the functin of Purg - backend 
+2. Testing it -Purg 
+3. Price Req. Prod Fix debugging
+
+22 - Jan
+1. Purg testing and 
+2. Approval flow data is not wokrign checking that
+
+
+
