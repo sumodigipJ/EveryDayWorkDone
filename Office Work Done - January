@@ -28,6 +28,10 @@
 3. PR - Margin upload fix - PROD - UI
 3. Creating Purge Schedular fix
 ---------------------------------------------------------------------------------------------------
-
+23 Jan
+1. SP to purge old record if record is FFS_execuited or terminated, revival_executed. Other than top 10 rest of the record should be purged after 10 days  
+2. Create a Ui checking of all flow when submitting check if nextapprover is present or not
+3. Checking in UI if Data is calling Async or not so that if that data is updating earlier or not
+4. Create a page to for flow how is is moving no next a Execl.
 
 
