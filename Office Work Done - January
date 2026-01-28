@@ -32,6 +32,31 @@
 1. SP to purge old record if record is FFS_execuited or terminated, revival_executed. Other than top 10 rest of the record should be purged after 10 days  
 2. Create a Ui checking of all flow when submitting check if nextapprover is present or not
 3. Checking in UI if Data is calling Async or not so that if that data is updating earlier or not
-4. Create a page to for flow how is is moving no next a Execl.
-
-
+4. 10 PM fix
+- Netoutstanding fix for the FFS
+- Called New fuction and in UI
+---------------------------------------------------------------------------------------------------
+25 Jan
+1. Column Length fix and used demandpoin for tablet size of input box
+2. Gross Margin for Per Eps Amout set in the table
+3. Visiblity fix for the buttons save, approve, request Input, submit
+4. visiblity for the section fixed
+5. Fixed currency required fix
+6. _onLoadBudgetDetailsCounterDigital Yai linear kai liye hai:- _onLoadBudgetDetailsCounter -> fixed the order of the Fees
+---------------------------------------------------------------------------------------------------
+27 Jan
+1. Checking All the Code for the UI for the FFS Revamp
+2. Flow checkout what changes need to be done
+3. - Ui changes
+1. New Routes Create (Create, Requester(Initior Page only, Admin Page), Approver)
+2. Visibility changes(Big Changes)
+3. Button Changes (visiblity) Per Page, Like of Inititor, Approver
+4. Data binding -> 
+5. remove hardcoded things
+6. Approval Flow Addon
+7. Payload (New and modified way)
+---------------------------------------------------------------------------------------------------
+28 Jan
+1. Still flow understanding for FFS
+2. PROD fix for Netoutstanding
+3. Plot out the Revamp of the FFS
